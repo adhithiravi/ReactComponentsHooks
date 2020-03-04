@@ -1,2 +1,0 @@
-# ReactComponentsHooks
-Created with CodeSandbox
